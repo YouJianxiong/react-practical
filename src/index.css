@@ -16,3 +16,9 @@ a {
   display: block;
   text-decoration: none;
 }
+
+.margin-auto {margin: auto;}
+
+.align-center {
+  align-items: center;
+}

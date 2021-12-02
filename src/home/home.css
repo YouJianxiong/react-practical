@@ -4,6 +4,11 @@
 
 .home > div > h3,
 .home > div > div,
-.home > div > p{
+.home > div > p,
+.home > div > blockquote{
     text-align: left;
+}
+
+em {
+    font-style: normal;
 }

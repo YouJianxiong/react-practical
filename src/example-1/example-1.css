@@ -1,0 +1,9 @@
+.addition,
+.addition > button {
+    font-family: "Times New Roman", serif;
+    font-size: 1.25em;
+}
+
+.addition > input {
+    font-size: 1.15em;
+}
