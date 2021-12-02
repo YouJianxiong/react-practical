@@ -1,0 +1,9 @@
+.home > h2 {
+    text-align: center;
+}
+
+.home > div > h3,
+.home > div > div,
+.home > div > p{
+    text-align: left;
+}
